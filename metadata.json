@@ -1,0 +1,6 @@
+{
+  "name": "Network Routing and Performance Analyzer",
+  "description": "A comprehensive Computer Networks Lab project simulating Dijkstra Shortest Path, Distance Vector Routing, Packet Simulation, Leaky Bucket Congestion Control, and XML Topology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
